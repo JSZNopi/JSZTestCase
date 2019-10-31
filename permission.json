@@ -1,0 +1,25 @@
+[{
+	"serialId": "100",
+	"displayName": "按不动产单元号查询"
+}, {
+	"serialId": "101",
+	"displayName": "按登记字号查询"
+}, {
+	"serialId": "102",
+	"displayName": "按坐落查询"
+}, {
+	"serialId": "103",
+	"displayName": "按权利人名称查询"
+}, {
+	"serialId": "104",
+	"displayName": "按图幅地号查询"
+}, {
+	"serialId": "105",
+	"displayName": "按区段地号查询"
+}, {
+	"serialId": "106",
+	"displayName": "注记信息查询(单案)"
+}, {
+	"serialId": "107",
+	"displayName": "注记信息查询"
+}]
